@@ -1,0 +1,5 @@
+current_level
+previous_level
+gun_color
+health
+collectible_count
