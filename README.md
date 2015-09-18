@@ -1,8 +1,8 @@
 # Dead Pixel
 
-<center><a href="http://deadpixelgame.co.nf">
-  <img src="https://dl.dropboxusercontent.com/u/90522550/logo.png" width="420px">
-</a></center>
+<a href="http://deadpixelgame.co.nf">
+  <img align="center" src="https://dl.dropboxusercontent.com/u/90522550/logo.png" width="420px">
+</a>
 
 ## Disclaimer
 
